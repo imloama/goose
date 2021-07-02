@@ -25,6 +25,6 @@
   "homepage": "https://github.com/imloama/goose#readme",
   "dependencies": {
     "ccxt": "^1.18.636",
-    "stellar-sdk": "^1.0.2"
+    "stellar-sdk": "^8.2.3"
   }
 }
